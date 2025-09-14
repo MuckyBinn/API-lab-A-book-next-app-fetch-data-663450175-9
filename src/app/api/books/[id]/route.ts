@@ -11,7 +11,8 @@ const books = [
     price: 1200,
     publisher: "Prentice Hall",
     pages: 464,
-    language: "English"
+    language: "English",
+    coverImageUrl: "https://m.media-amazon.com/images/I/71T7aD3EOTL._UF1000,1000_QL80_.jpg"
   },
   {
     id: "2",
@@ -23,7 +24,8 @@ const books = [
     price: 950,
     publisher: "Addison-Wesley",
     pages: 352,
-    language: "English"
+    language: "English",
+    coverImageUrl: "https://miro.medium.com/v2/resize:fit:1400/0*1Chs1iKrkmQc7esc.jpg"
   },
   {
     id: "3",
@@ -35,7 +37,8 @@ const books = [
     price: 700,
     publisher: "No Starch Press",
     pages: 492,
-    language: "English"
+    language: "English",
+    coverImageUrl: "https://eloquentjavascript.net/img/cover.jpg"
   }
 ];
 

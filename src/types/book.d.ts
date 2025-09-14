@@ -1,11 +1,10 @@
-// User model
+
 interface User {
   _id: string;
   username: string;
   email: string;
 }
 
-// Book model
 interface Book {
   _id: string;
   title: string;
@@ -16,11 +15,10 @@ interface Book {
   price: number;
   available: boolean;
   addedBy: User;
-  createdAt: string; // ISO date string
-  updatedAt: string; // ISO date string
+  createdAt: string; 
+  updatedAt: string; 
 }
 
-// Pagination model
 interface Pagination {
   page: number;
   limit: number;
@@ -28,7 +26,6 @@ interface Pagination {
   pages: number;
 }
 
-// Root response model
 interface BookResponse {
   books: Book[];
   pagination: Pagination;
