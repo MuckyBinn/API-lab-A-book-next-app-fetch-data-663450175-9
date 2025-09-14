@@ -11,7 +11,9 @@ npm run dev
 
 #Screenshots
 ### หน้าแรก (Homepage / List Page)
-![Homepage](/screenshots/Homepage.png)
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/32275e74-2450-46a9-a725-493d090a663a" />
+
+
 
 ### หน้าแสดงรายละเอียดหนังสือ (Detail Page)
-![Detail Page](/screenshots/Detail.png)
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/368a3c33-24b4-404c-944b-ba444076eb32" />
